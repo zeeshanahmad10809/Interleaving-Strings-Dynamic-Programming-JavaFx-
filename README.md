@@ -18,5 +18,5 @@ Dynamic Programming is mainly an optimization over plain recursion. Wherever we 
 ### Recommended IDE
 - IntelliJ IDEA
 
-### UI
+### User Interface
 ![alt text](https://github.com/zeeshanahmad10809/Interleaving-Strings-Dynamic-Programming-JavaFx-/blob/master/.interleaving_strings.png)

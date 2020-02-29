@@ -1,4 +1,4 @@
-# Interleaving-Strings-Dynamic-Programming-JavaFx-
+# Interleaving Strings Dynamic Programming JavaFx
 
 ### What is string interleaving?
 Given three strings A, B and C. Write a function that checks whether C is an interleaving of A and B. C is said to be interleaving A and B, if it contains all characters of A and B and order of all characters in individual strings is preserved.

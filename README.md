@@ -13,9 +13,9 @@ Dynamic Programming is mainly an optimization over plain recursion. Wherever we 
 - If bottom-right cell of table is True then strings are interleaving otherwise if False then strings are not interleaving.
 
 ### Requirements
-javac 1.8.0_121
+- javac 1.8.0_121
 
 ### Recommended IDE
-IntelliJ IDEA
+- IntelliJ IDEA
 
 ![alt text](https://github.com/zeeshanahmad10809/Interleaving-Strings-Dynamic-Programming-JavaFx-/blob/master/.interleaving_strings.png)
